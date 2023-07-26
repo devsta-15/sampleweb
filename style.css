@@ -1,10 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@600&display=swap');
+
 *{
     padding: 0;
     margin: 0;
     box-sizing: border-box;
     list-style: none;
     text-decoration: none;
+    font-family: 'Inter', sans-serif;
 }
+
 
 :root{
     --rellenoslaterales: 0px 110px 0px 110px;
@@ -62,7 +66,7 @@
 .toolbar-top .list-header{
     display: flex;
     gap: 25px;
-    font-size: 18px;
+    font-size: 16px;
     
 }
 
