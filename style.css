@@ -40,6 +40,12 @@
     display: flex;
     gap: 25px;
     font-size: 18px;
+    
+}
+
+.toolbar-top .list-header .item-lista-uno{
+    border-bottom: solid 2px #ce1212;
+    color: black;
 }
 
 .toolbar-top .buttom-header{
@@ -48,3 +54,12 @@
     border-radius: 20px;
     color: white;
 }
+
+.toolbar-top .buttom-header:hover{
+    padding: 10px 15px 10px 15px;
+    background-color: #d84141;
+    border-radius: 20px;
+    color: white;
+}
+
+
