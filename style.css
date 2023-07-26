@@ -4,4 +4,47 @@
     box-sizing: border-box;
     list-style: none;
     text-decoration: none;
+    
+}
+
+.container-home{
+    justify-content: space-between;
+    align-items: center;
+    display: flex;
+    background-color: #eeeeee;
+    width: 100%;
+    height: 100vh;
+    gap: 100px;
+}
+
+
+.container-home-left{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    text-align: left;
+    margin-top: 48px;
+    padding-left: 110px;
+}
+
+.title-home{
+    color: #37373f;
+    font-size: 50px;
+    margin: 0px 0px 20px;
+}
+
+.paragraph-home{
+    font-size: 20px;
+    margin: 0px 0px 30px ;
+}
+
+.container-home-right{
+    display: flex;
+    width: 50%;
+
+    
+}
+
+.img-home{
+    width: 500px;
 }
