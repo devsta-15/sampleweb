@@ -43,9 +43,17 @@
     
 }
 
-.toolbar-top .list-header .item-lista-uno{
+.toolbar-top .list-header .item-lista:hover{
     border-bottom: solid 2px #ce1212;
     color: black;
+    padding-bottom: 5px;
+}
+
+.toolbar-top .list-header .first-element{
+    border-bottom: solid 2px #ce1212;
+    padding-bottom: 5px;
+    color: black;
+    
 }
 
 .toolbar-top .buttom-header{
