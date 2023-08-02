@@ -11,9 +11,11 @@
     height: 90vh;
     background-color: #eeeeee;
     display: flex;
-    padding: 60px 0px 0px 75px;
-    justify-content: space-between;
+    padding: 60px 80px 0px 75px;
     align-items: center;
+    gap: 30px;
+    
+    
     
 
 }
@@ -26,10 +28,10 @@
     font-size: 34px;
     color: #fdf4f8;
     flex-direction: column;
-    width: 30%;
+    width: 40%;
     height: 90%;
     align-items: center;
-     justify-content: space-around;
+     justify-content: space-between;
     
      
 }
@@ -51,13 +53,53 @@
 .corp{
     display: flex;
     background-color:#ffffff ;
-    padding: 20px 40px 0px 30px;
+    padding: 20px 20px 34px 20px;
     margin-bottom: 45px;
-    font-size: 34px;
+    font-size: 20px;
     color: black;
     flex-direction: column;
-    width: 30%;
-    height: 70%;
-    margin-left: -100px;
+    width: 300px;
+    height: 80%;
     align-items: center;
+    justify-content: space-around;
+    justify-items: center;
+    
+}
+
+
+.ull{
+    display: flex;
+    background-color:#ffffff ;
+    padding: 20px 20px 34px 20px;
+    margin-bottom: 45px;
+    font-size: 20px;
+    color: black;
+    flex-direction: column;
+    width: 300px;
+    height: 80%;
+    align-items: center;
+    justify-content: space-around;
+    justify-items: center;  }
+    
+
+.labore {
+    display: flex;
+    background-color:#ffffff ;
+    padding: 20px 20px 34px 20px;
+    margin-bottom: 45px;
+    font-size: 20px;
+    color: black;
+    flex-direction: column;
+    width: 300px;
+    height: 80%;
+    align-items: center;
+    justify-content: space-around;
+    justify-items: center;
+    
+}
+
+.titulos {
+    display: flex;
+    text-align: center;
+
 }
