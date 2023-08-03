@@ -31,7 +31,7 @@
     width: 40%;
     height: 90%;
     align-items: center;
-     justify-content: space-between;
+     justify-content: space-around;
     
      
 }
@@ -66,6 +66,22 @@
     
 }
 
+.corp:hover{
+    display: flex;
+    background-color:#ffffff ;
+    padding: 20px 20px 34px 20px;
+    margin-bottom: 45px;
+    font-size: 20px;
+    color: black;
+    flex-direction: column;
+    width: 320px;
+    height: 85%;
+    align-items: center;
+    justify-content: space-around;
+    justify-items: center;
+    transition: .8s;
+    
+}
 
 .ull{
     display: flex;
@@ -80,6 +96,22 @@
     align-items: center;
     justify-content: space-around;
     justify-items: center;  }
+
+.ull:hover{
+    display: flex;
+    background-color:#ffffff ;
+    padding: 20px 20px 34px 20px;
+    margin-bottom: 45px;
+    font-size: 20px;
+    color: black;
+    flex-direction: column;
+    width: 320px;
+    height: 85%;
+    align-items: center;
+    justify-content: space-around;
+    justify-items: center;
+    transition: .8s;  }
+    
     
 
 .labore {
@@ -96,6 +128,23 @@
     justify-content: space-around;
     justify-items: center;
     
+}
+
+.labore:hover {
+    display: flex;
+    background-color:#ffffff ;
+    padding: 20px 20px 34px 20px;
+    margin-bottom: 45px;
+    font-size: 20px;
+    color: black;
+    flex-direction: column;
+    width: 320px;
+    height: 85%;
+    align-items: center;
+    justify-content: space-around;
+    justify-items: center;
+    transition: .8s;
+
 }
 
 .titulos {
